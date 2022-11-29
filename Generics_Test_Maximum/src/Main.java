@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Find Maximum Problem using Generics");
-        Integer a = 40;
+        Integer a = 90;
         Integer b = 80;
-        Integer c = 30;
+        Integer c = 40;
         Main main = new Main();
         System.out.println(main.checkMax(a, b, c));
     }
