@@ -8,8 +8,8 @@ public class Main {
         Float f2 = 8.1f;
         Float f3 = 9.1f;
         String s1="gujrat";
-        String s2="nagpur";
-        String s3="mumbai";
+        String s2="mumbai";
+        String s3="nagpur";
 
         Main main = new Main();
         System.out.println("Max Number (Integer) is : " + main.checkMax(i1, i2, 3));
