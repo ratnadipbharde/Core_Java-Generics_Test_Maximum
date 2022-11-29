@@ -4,7 +4,7 @@ public class Main {
         Integer a = 60;
         Integer b = 90;
         Integer c = 100;
-        Float d=1.3f;
+        Float d=7.1f;
         Float e=5.6f;
         Float f=6.4f;
         Main main = new Main();
