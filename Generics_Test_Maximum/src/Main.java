@@ -7,8 +7,8 @@ public class Main {
         Float f1 = 7.1f;
         Float f2 = 8.1f;
         Float f3 = 9.1f;
-        String s1="nagpur";
-        String s2="gujrat";
+        String s1="gujrat";
+        String s2="nagpur";
         String s3="mumbai";
 
         Main main = new Main();
