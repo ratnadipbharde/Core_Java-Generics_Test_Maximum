@@ -6,7 +6,7 @@ public class Main {
         Integer c = 100;
         Float d = 7.1f;
         Float e = 8.1f;
-        Float f = 6.4f;
+        Float f = 9.1f;
         Main main = new Main();
         System.out.println("Max Number (Integer) is : " + main.checkMax(a, b, c));
         System.out.println("Max Number (Float) is : " + main.checkMax(d, e, f));
